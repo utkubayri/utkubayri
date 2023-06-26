@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkubayri&label=Profile%20views&color=0e75b6&style=flat" alt="utkubayri" /> </p>
 
-- 🌱 I’m currently learning Data Science and Advanced Level Python **Data Science and Advanced Level Python**
+- 🌱 I’m currently learning Data Science and Advanced Level Python
 
 - 📫 How to reach me **yuzksona@gmail.com**
 
